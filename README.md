@@ -1,7 +1,7 @@
 RESideMenuStoryboardDemo
 ========================
 
-A demo project using RESideMenu with storyboard.
+A demo project using [RESideMenu](https://github.com/romaonthego/RESideMenu) with storyboard.
 
 ## Tricks
 
